@@ -1,4 +1,4 @@
-# Springboot-Student-API
+# Springboot-Student-REST-API
 Springboot &amp; mysql small API
 
 Install WAMPServer to run this application.
